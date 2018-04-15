@@ -1,0 +1,12 @@
+/**app.wxss**/
+view {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+image{
+  display: block;
+}
+.container {
+  padding: 30rpx;
+  border-top: 1rpx solid #e5e5e5;
+}
